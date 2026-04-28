@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="534.625" height="399.875" alt="HERO_IMAGE" src="https://github.com/user-attachments/assets/fae70dbd-c158-4834-ad1c-e3564757e61e" />
+  <img width="750" height="561" alt="HERO_IMAGE" src="https://github.com/user-attachments/assets/fae70dbd-c158-4834-ad1c-e3564757e61e" />
 </p>
 <p align="center">
   <i>
